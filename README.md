@@ -38,3 +38,9 @@ yarn add --dev jest
   ]
 }
 ```
+
+- [Http Server](https://www.npmjs.com/package/http-server)
+
+```bash
+npm install http-server -g
+```
